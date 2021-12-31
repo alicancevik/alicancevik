@@ -1,7 +1,7 @@
 ### Hi there I'm Alican 👋
 
 - 🔭 I'm currently working on .Net & .Net Core programming
-- 🌱 I'm currently learning Angular & React...
+- 🌱 I'm currently learning Nodejs & React...
 - ⚡ I like to write blog posts.
 
 <!--
