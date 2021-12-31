@@ -1,6 +1,8 @@
 ### Hi there I'm Alican 👋
 
-**alicancevik/alicancevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on .Net & .Net Core programming
+- 🌱 I'm currently learning Angular & React...
+- ⚡ I like to write blog posts.
 
 <!--
 **alicancevik/alicancevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
