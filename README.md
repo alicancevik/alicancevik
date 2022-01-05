@@ -1,3 +1,7 @@
+[![](http://blog.alicancevik.com/wp-content/uploads/2020/09/in-icon.png)](https://www.linkedin.com/in/alicancevik/)
+[![](http://blog.alicancevik.com/wp-content/uploads/2020/09/yt-icon.png)](https://www.youtube.com/channel/UCm0LfrF9ImTEHLZfc3enQbw)
+
+
 ### Hi there I'm Alican 👋
 - 🔭 I have experience in Asp.Net MVC, .Net Core, C#, Angular, Sql, PL/Sql, Jquery
 - :computer: I'm currently working on .Net & .Net Core programming
