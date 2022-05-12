@@ -5,7 +5,6 @@
 ### Hi there I'm Alican 👋
 - 🔭 I have experience in Asp.Net MVC, .Net Core, C#, Angular, Sql, PL/Sql, Jquery
 - :computer: I'm currently working on .Net & .Net Core programming
-- ⚡ I'm currently learning Nodejs & React...
 - :star: I like to write blog posts.
 
 
